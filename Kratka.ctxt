@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.params=x\ y
+comment0.target=Kratka(int,\ int)
+comment1.params=plotno
+comment1.target=void\ sprawdzOtoczenie(java.awt.image.BufferedImage)
+comment2.params=
+comment2.target=void\ zmienStan()
+numComments=3

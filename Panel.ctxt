@@ -1,0 +1,20 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Panel()
+comment1.params=r
+comment1.target=void\ ustawRozmiar(java.awt.Dimension)
+comment2.params=
+comment2.target=void\ czyscWszystko()
+comment3.params=k
+comment3.target=void\ rysujKratke(Kratka)
+comment4.params=
+comment4.target=void\ rysujMacierz()
+comment5.params=x\ y
+comment5.target=void\ zaznacz(int,\ int)
+comment6.params=
+comment6.target=void\ sprawdzOtoczenieMacierz()
+comment7.params=
+comment7.target=void\ zmienStanMacierz()
+comment8.params=g
+comment8.target=void\ paintComponent(java.awt.Graphics)
+numComments=9
